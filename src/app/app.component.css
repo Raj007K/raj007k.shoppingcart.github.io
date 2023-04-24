@@ -1,0 +1,23 @@
+div{
+    color: green ;
+    border: 3px ridge rgb(128, 0, 73);
+    padding:10px;
+    
+    }
+
+    menu{
+        
+        flex:auto ;
+    }
+
+header{
+    background: #00fff7 ;
+}
+
+.spacer {
+    flex: 1;
+  }
+
+    footer{
+        background: #11ae36;
+    }
